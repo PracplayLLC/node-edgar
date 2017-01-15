@@ -1,0 +1,28 @@
+{
+  "name": "node-sec",
+  "version": "1.0.0",
+  "description": "A library for pulling information from the SEC's EDGAR website in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitrshah/node-sec.git"
+  },
+  "author": "Sumit Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumitrshah/node-sec/issues"
+  },
+  "homepage": "https://github.com/sumitrshah/node-sec#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "feedparser": "^2.0.0",
+    "lodash": "^4.17.4",
+    "request": "^2.79.0"
+  }
+}

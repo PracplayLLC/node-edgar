@@ -35,3 +35,13 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Mac
+.DS_Store
+
+# Heroku environmental variables, including API keys.
+# https://devcenter.heroku.com/articles/config-vars
+.env
+
+# Emacs
+*~
