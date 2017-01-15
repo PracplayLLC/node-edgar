@@ -1,11 +1,11 @@
-node-sec
+node-edgar
 =========
 
 A library for pulling information from the SEC's EDGAR website in JSON format.
 
 ## Installation
 
-  `npm install node-sec`
+  `npm install node-edgar`
 
 ## Usage
 
